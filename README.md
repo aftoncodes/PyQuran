@@ -9,15 +9,16 @@ Features:
 ☑ Select chapter of Qur'an
 ☑ Download link for chapter
 ☑ In-app playback of chapter
+☑ Whole Qur'an from certain reciter
 ☐ Search for word in Qur'an
 ☐ Listen and play by verse (ayah)
-☐ Whole Qur'an from certain reciter
 ☐ Written Qur'an for reading
 ```
 
 ## Installation
 Clone this repository:
 > git clone https://github.com/aftoncodes/PyQuran.git
+
 Alternatively, you can download the source as a .zip (`<> Code ▾`>`Download ZIP`)
 
 Next, perform this command within the `PyQuran` folder:
